@@ -9,7 +9,7 @@
 - ITWILL JAVA DEVELOPER COURSE (23.05. ~ 23.11.)
 
 ### 💾 Project
-- [Danaga.com](https://github.com/Roco-LEE/IWILL_TEAM_PROJECT) (23.10. ~ 23.11.)
+- [Danaga.com](https://github.com/Roco-LEE/IWILL_TEAM_PROJECT/tree/master/03.Avengers) (23.10. ~ 23.11.)
 
 ### 🙋‍♂️ Contact Me
 - [<img src="https://img.shields.io/badge/로꼬코딩-000000?style=for-the-badge&logo=tistory&logoColor=white">](https://rococoding.tistory.com/)
