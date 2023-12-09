@@ -10,7 +10,7 @@
 
 ### 💾 Project
 ##### ✔ 개인 프로젝트
-- [게시판 실습](https://github.com/Roco-LEE/board_practice) [23.11.24. ~ ]
+- [게시판 실습](https://github.com/Roco-LEE/board_practice) [23.11.24. ~ 23.12.07.]
 ##### ✔ 팀 프로젝트
 - [원데이클라스](https://github.com/Roco-LEE/IWILL_TEAM_PROJECT/tree/master/01.hotSix) [23.07.14. ~ 23.07.25. (12일)]
 - [sellPhone](https://github.com/Roco-LEE/IWILL_TEAM_PROJECT/tree/master/02.sellPhone) [23.08.18. ~ 23.08.25. (8일)]
