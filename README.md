@@ -23,8 +23,8 @@ Java, Spring 기반의 백엔드 개발자입니다.
 
 | 기간 | 프로젝트 | 설명 | Tech |
 | :--- | :--- | :--- | :--- |
-| 2026.09&nbsp;~ | **[헬스일지&nbsp;PWA](https://github.com/Roco-LEE/gym_log_pwa)** | 오프라인 운동 기록 앱 · 세트별 무게/횟수 · 엑셀 자동 동기화 | `PWA` `JavaScript` `Python` |
-| 2026.06&nbsp;~ | **[Pokémon&nbsp;Desktop&nbsp;Pet](https://github.com/Roco-LEE/pokemon_pet)** | 데스크톱 펫 · 상태머신 애니메이션 · 포터블 .exe 배포 | `Electron` `JavaScript` |
+| 2026.09&nbsp;~ | **[헬스일지&nbsp;PWA](https://github.com/Roco-LEE/gym_log_pwa)** | 오프라인 운동 기록 앱 · 엑셀 자동 동기화 · LLM 운동 코치 | `PWA` `JavaScript` `Python` `Claude API` |
+| 2026.06&nbsp;~&nbsp;2026.08 | **[Pokémon&nbsp;Desktop&nbsp;Pet](https://github.com/Roco-LEE/pokemon_pet)** | 데스크톱 펫 · 상태머신 애니메이션 · 포터블 .exe 배포 | `Electron` `JavaScript` |
 | 2023.07&nbsp;~&nbsp;2023.11 | **[국비과정&nbsp;팀&nbsp;프로젝트&nbsp;3종](https://github.com/Roco-LEE/IWILL_TEAM_PROJECT)** | 원데이클래스 · 중고폰 판매 · PC쇼핑몰 | `Java` `Spring` `Oracle` |
 
 <br/>
@@ -53,6 +53,11 @@ Java, Spring 기반의 백엔드 개발자입니다.
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![JSP](https://img.shields.io/badge/JSP-EA2D2E?style=for-the-badge&logo=&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+**AI**
+
+![Claude API](https://img.shields.io/badge/Claude%20API-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
 
 **Infra & Ops**
 
